@@ -20,4 +20,6 @@ La base de données Room est configurée pour utiliser l'Entity Schedule et le D
 Le ViewModel récupère les données depuis le DAO et les expose à l'interface utilisateur via des Flow ou LiveData. Cela permet d'afficher dynamiquement les horaires des bus.
 7. Résultat de l'application
 
-<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e https://github.com/user-attachments/assets/cf2aae91-c166-432f-8d38-a3447e0b89ed https://github.com/user-attachments/assets/926ab33d-553e-4aec-9cdb-bce7c4a082b7" />
+<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e  " />
+<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="[https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e](https://github.com/user-attachments/assets/926ab33d-553e-4aec-9cdb-bce7c4a082b7)" />
+<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="[https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e](https://github.com/user-attachments/assets/cf2aae91-c166-432f-8d38-a3447e0b89ed) " />
