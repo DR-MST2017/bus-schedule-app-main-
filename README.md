@@ -11,6 +11,7 @@ ksp("androidx.room:room-compiler:2.5.1")
 3. Création de l'Entity
 La classe Schedule est convertie en Room Entity représentant la table de la base de données avec les champs : id, stopName et arrivalTime.
 4. Création du DAO
+
 Le DAO permet d'accéder aux données avec deux méthodes principales :
 - récupérer tous les horaires triés par heure d'arrivée
 - récupérer les horaires d'un arrêt spécifique.
@@ -19,7 +20,9 @@ La base de données Room est configurée pour utiliser l'Entity Schedule et le D
 6. Mise à jour du ViewModel
 Le ViewModel récupère les données depuis le DAO et les expose à l'interface utilisateur via des Flow ou LiveData. Cela permet d'afficher dynamiquement les horaires des bus.
 7. Résultat de l'application
+<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="https://github.com/user-attachments/assets/26164982-842b-4501-a6f8-03c1b1a89045" />
+![WhatsApp Image 2026-04-10 at 21 05 39 (1)](https://github.com/user-attachments/assets/2e43ac59-03a7-4afb-9534-3374bd431005)
+![WhatsApp Image 2026-04-10 at 21 05 39](https://github.com/user-attachments/assets/c6dc0414-e9ff-4ec3-812e-7357a9376867)
 
-<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e  " />
-<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="[https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e](https://github.com/user-attachments/assets/926ab33d-553e-4aec-9cdb-bce7c4a082b7)" />
-<img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="[https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e](https://github.com/user-attachments/assets/cf2aae91-c166-432f-8d38-a3447e0b89ed) " />
+
+
