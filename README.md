@@ -21,5 +21,5 @@ Le ViewModel récupère les données depuis le DAO et les expose à l'interface 
 7. Résultat de l'application
 
 <img width="1800" height="942" alt="Capture d&#39;écran 2026-04-10 210728" src="https://github.com/user-attachments/assets/2b6f59d9-5b0a-4115-8067-e4ecd4100b0e" />
-![WhatsApp Image 2026-04-10 at 21 05 39](https://github.com/user-attachments/assets/1c2cc7ae-45c0-4165-881d-eda65093e357)
-![WhatsApp Image 2026-04-10 at 21 05 39 (1)](https://github.com/user-attachments/assets/3b32a1d1-66ad-414f-a10b-19378ad1e6d9)
+![WhatsApp Image 2026-04-10 at 21 05 39](https://github.com/user-attachments/assets/cf2aae91-c166-432f-8d38-a3447e0b89ed)
+![WhatsApp Image 2026-04-10 at 21 05 39](https://github.com/user-attachments/assets/926ab33d-553e-4aec-9cdb-bce7c4a082b7)
